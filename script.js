@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
     };
     
+    // Display date once
     madalinFunction();
 
     // Update time every second
