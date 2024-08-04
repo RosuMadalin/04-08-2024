@@ -1,0 +1,7 @@
+/* Optional: Style the date container */
+#date-container {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
